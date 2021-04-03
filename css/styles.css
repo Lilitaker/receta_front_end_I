@@ -1,0 +1,22 @@
+body {
+    color: #444444;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title_recetas {
+    color: #000000;
+}
+
+.title_recetas_lemon{
+    background-color: #FEF400;
+}
+
+.title_recetas_carrot{
+    background-color: #FEA500;
+}
+
+.subtitle_recetas {
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #EAEAEA;
+}
